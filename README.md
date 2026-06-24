@@ -44,4 +44,3 @@ git checkout -b lesson-02
 ## Ресурси
 
 - `assets/cars.json` — масив даних автомобілів для заняття 1
-- `assets/default-avatar.jpg` — аватар за замовчуванням для заняття 10
