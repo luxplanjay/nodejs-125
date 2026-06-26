@@ -6,7 +6,6 @@
 - Створення сервера з Express
 - Роутинг в Express
 - Параметри маршруту `req.params`
-- Параметри запиту `req.query`
 
 ## Middleware
 
